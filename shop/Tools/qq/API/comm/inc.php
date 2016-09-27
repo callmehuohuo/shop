@@ -1,0 +1,2 @@
+<?php die('forbidden'); ?>
+{"appid":"101275888","appkey":"f1abb351ec08df24f2d5e549fcaaeb3d","callback":"http://itcast.biz/index.php/Home/User/callback","scope":"get_user_info","errorReport":true,"storageType":"file","host":"localhost","user":"root","password":"root","database":"test"}

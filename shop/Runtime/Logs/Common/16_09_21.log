@@ -1,0 +1,6 @@
+[ 2016-09-21T10:49:48+08:00 ] 192.168.40.30 /index.php/Aadmin/type/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000784s ]
+ERR: 无法加载模块:Aadmin
+
